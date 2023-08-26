@@ -6,7 +6,7 @@ In analizing the existing network, we researched the cabling ,node allocation ,a
 ![image](https://github.com/NipunPushpakumara/Design-of-Local-Area-Network-Backbone-and-ENTC-building--of-University-of-Moratuwa-Sri-Lanka/assets/129825942/9f766d98-0621-49d9-b1e3-bc8fa1c73646)
 ![image](https://github.com/NipunPushpakumara/Design-of-Local-Area-Network-Backbone-and-ENTC-building--of-University-of-Moratuwa-Sri-Lanka/assets/129825942/4c81995c-bf04-4c3d-bbdc-7031f5fc6761)
 
-the physical view of the backbone 
+The physical view of the backbone 
 
 ![Screenshot 2023-08-26 142200](https://github.com/NipunPushpakumara/Design-of-Local-Area-Network-Backbone-and-ENTC-building--of-University-of-Moratuwa-Sri-Lanka/assets/129825942/0a8802b6-06ed-4446-8393-73102f7a7865)
 
